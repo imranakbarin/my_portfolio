@@ -1,18 +1,18 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: Imran Akbar
+description: Java, Python & T24 with Banking experience
+site_title: '@imranakbarin - Imran Akbar'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
-blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+github_username: imranakbarin
+blog_url: http://www.buildnlearn.in
+email: imranakbarin@gmail.com
+keybase_username: imranakbarin
+twitter_username: imranakbarin
+reddit_username: imranakbarin
 
 # absolute or relative
 profile_picture: assets/images/pp.jpg
